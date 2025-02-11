@@ -1,0 +1,40 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Fifteen"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aute et nostrud ad irure mollit."
+						}
+					}
+				]
+			},
+			"buttone": {
+				"__TYPE__": "LinkContent",
+				"key": "f2f06c21-8c3b-410e-8fdd-e4c313c8cb9c",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io",
+					"text": "rest"
+				}
+			}
+		},
+		"items": []
+	}
+]
