@@ -9,8 +9,10 @@
 					{
 						"type": "heading1",
 						"content": {
-							"text": "Fifteen"
-						}
+							"text": "Familiar Skateboards",
+							"spans": []
+						},
+						"direction": "ltr"
 					}
 				]
 			},
@@ -26,8 +28,8 @@
 				]
 			},
 			"buttone": {
-				"__TYPE__": "LinkContent",
 				"key": "f2f06c21-8c3b-410e-8fdd-e4c313c8cb9c",
+				"__TYPE__": "LinkContent",
 				"value": {
 					"__TYPE__": "ExternalLink",
 					"url": "https://prismic.io",
